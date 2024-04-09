@@ -1,31 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ray</title>
-    <link>https://adityatelange.github.io/hugo-PaperMod/tags/</link>
+    <link>https://nzaba.github.io/tags/</link>
     <description>Recent content in Tags on Ray</description>
-    <image>
-      <title>Ray</title>
-      <url>https://adityatelange.github.io/hugo-PaperMod/papermod-cover.png</url>
-      <link>https://adityatelange.github.io/hugo-PaperMod/papermod-cover.png</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://adityatelange.github.io/hugo-PaperMod/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 14 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nzaba.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Supervised Learning, Neural Networks, Classification, Unsupervised Learning, Factor Analysis</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/tags/supervised-learning-neural-networks-classification-unsupervised-learning-factor-analysis/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <title>Big Data, Information Retrieval, Graph Theory</title>
+      <link>https://nzaba.github.io/tags/big-data-information-retrieval-graph-theory/</link>
+      <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://adityatelange.github.io/hugo-PaperMod/tags/supervised-learning-neural-networks-classification-unsupervised-learning-factor-analysis/</guid>
+      <guid>https://nzaba.github.io/tags/big-data-information-retrieval-graph-theory/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Public Health, ggplot, Shiny Server</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/tags/public-health-ggplot-shiny-server/</link>
+      <title>Machine Learning</title>
+      <link>https://nzaba.github.io/tags/machine-learning/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://nzaba.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time Series Forecasting</title>
+      <link>https://nzaba.github.io/tags/time-series-forecasting/</link>
       <pubDate>Sat, 07 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://adityatelange.github.io/hugo-PaperMod/tags/public-health-ggplot-shiny-server/</guid>
+      <guid>https://nzaba.github.io/tags/time-series-forecasting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Public Health</title>
+      <link>https://nzaba.github.io/tags/public-health/</link>
+      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://nzaba.github.io/tags/public-health/</guid>
       <description></description>
     </item>
     

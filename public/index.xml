@@ -1,43 +1,56 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ray</title>
-    <link>https://adityatelange.github.io/hugo-PaperMod/</link>
+    <link>https://nzaba.github.io/</link>
     <description>Recent content on Ray</description>
-    <image>
-      <title>Ray</title>
-      <url>https://adityatelange.github.io/hugo-PaperMod/papermod-cover.png</url>
-      <link>https://adityatelange.github.io/hugo-PaperMod/papermod-cover.png</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://adityatelange.github.io/hugo-PaperMod/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 14 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nzaba.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Navigating the Unknown</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/posts/defaultriskcalculations/</link>
+      <title>Markov Chains Demystified</title>
+      <link>https://nzaba.github.io/posts/pagerank/</link>
+      <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nzaba.github.io/posts/pagerank/</guid>
+      <description>&lt;p&gt;The Secret Sauce Behind PageRank Algorithm&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Default Risk Estimation Methods</title>
+      <link>https://nzaba.github.io/posts/defaultriskcalculations/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/defaultriskcalculations/</guid>
-      <description>Harnessing KNN &amp;amp; Neural Nets to Assess Default Risk for Unbanked Loan Applicants</description>
+      <guid>https://nzaba.github.io/posts/defaultriskcalculations/</guid>
+      <description>&lt;p&gt;Harnessing KNN &amp;amp; Neural Nets to Assess Default Risk for Unbanked Loan Applicants&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Modelling Changing Variance in Time Series</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/posts/variancemodelling/</link>
+      <link>https://nzaba.github.io/posts/variancemodelling/</link>
       <pubDate>Sat, 07 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/variancemodelling/</guid>
-      <description>Modelling Changing Variance in Time Series</description>
+      <guid>https://nzaba.github.io/posts/variancemodelling/</guid>
+      <description>&lt;p&gt;Forecasting Methods for Modelling Changing Variance in Time Series&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Opioid Crisis Dashboard</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/posts/opioidcrisis/</link>
+      <link>https://nzaba.github.io/posts/opioidcrisis/</link>
       <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/opioidcrisis/</guid>
-      <description>Making Sense of The Opioid Crisis</description>
+      <guid>https://nzaba.github.io/posts/opioidcrisis/</guid>
+      <description>&lt;p&gt;A Shiny App Which Sheds More Light on the Opioid Crisis&lt;/p&gt;</description>
     </item>
     
+    <item>
+      <title>Search</title>
+      <link>https://nzaba.github.io/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nzaba.github.io/search/</guid>
+      <description>search</description>
+    </item>
     
   </channel>
 </rss>
